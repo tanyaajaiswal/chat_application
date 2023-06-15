@@ -1,1 +1,6 @@
-# chat_application
+Requirements: 
+Flask_SocketIO==4.3.1
+Flask==1.1.2
+python-socketio==4.6.0
+python-engineio==3.13.2
+ 
